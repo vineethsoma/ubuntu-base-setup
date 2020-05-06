@@ -18,3 +18,19 @@ Steps:
   - References: 
     - https://github.com/rcasero/doc/wiki/Ubuntu-linux-on-Dell-XPS-15-(9560)
     - https://github.com/rcasero/doc/issues/6
+  - Mount directory to home
+    - https://askubuntu.com/questions/205841/how-do-i-mount-a-folder-from-another-partition
+    - https://www.shellhacks.com/remount-etc-fstab-without-reboot-linux/
+- Application installations
+  - VS Code
+    - Used software store
+  - Git 
+    - `sudo apt install git`
+  - chrome
+
+    ```bash
+      wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+      sudo dpkg -i google-chrome-stable_current_amd64.deb
+    ```
+    - https://www.fosslinux.com/26274/how-to-install-google-chrome-on-ubuntu.htm
