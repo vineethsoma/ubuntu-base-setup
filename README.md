@@ -34,3 +34,7 @@ Steps:
       sudo dpkg -i google-chrome-stable_current_amd64.deb
     ```
     - https://www.fosslinux.com/26274/how-to-install-google-chrome-on-ubuntu.htm
+  - Docker
+    - https://docs.docker.com/engine/install/ubuntu/
+    - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+    - Added user to docker group to run without sudo
