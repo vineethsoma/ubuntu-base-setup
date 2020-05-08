@@ -52,3 +52,4 @@ Steps:
      - https://linuxconfig.org/how-to-install-cuda-on-ubuntu-20-04-focal-fossa-linux
      - Alternatice GCC and  g++ install - 8 works
        - https://linuxconfig.org/how-to-switch-between-multiple-gcc-and-g-compiler-versions-on-ubuntu-20-04-lts-focal-fossa
+ - [AWS CLI](./docs/aws-setup.md)
